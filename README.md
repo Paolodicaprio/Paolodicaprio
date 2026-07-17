@@ -26,7 +26,7 @@
 
 ### 🧭 En bref
 
-- 💼 Full Stack Dev & CTO @ Harnix SAS
+- 💼 Full Stack Dev 
 - 🤖 Spécialité : CRM & automatisations pilotées par IA
 - 🌐 Freelance web & mobile en parallèle
 - 🎓 Master Génie Logiciel - IFRI
