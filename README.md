@@ -68,9 +68,6 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-🐍 **Contribution snake** — à activer via GitHub Actions (voir note en bas)
-
 <img src="https://raw.githubusercontent.com/Paolodicaprio/Paolodicaprio/output/github-contribution-grid-snake.svg" width="90%" />
 <!--END_SECTION:waka-->
 
