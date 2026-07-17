@@ -26,10 +26,10 @@
 
 ### 🧭 En bref
 
-- 💼 Full Stack Dev & CTO — projet **Nixia** @ Harnix SAS
+- 💼 Full Stack Dev & CTO @ Harnix SAS
 - 🤖 Spécialité : CRM & automatisations pilotées par IA
 - 🌐 Freelance web & mobile en parallèle
-- 🎓 Master Génie Logiciel — IFRI
+- 🎓 Master Génie Logiciel - IFRI
 
 </td>
 <td width="50%" valign="top">
