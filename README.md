@@ -49,9 +49,6 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Paolodicaprio&show_icons=true&theme=default&hide_border=true&title_color=3A3A3A&icon_color=A9927D&text_color=6b6b6b&bg_color=00000000&hide_rank=false"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolodicaprio&layout=compact&hide_border=true&title_color=3A3A3A&text_color=6b6b6b&bg_color=00000000"/>
-
 </div>
 
 <div align="center">
@@ -78,8 +75,6 @@
 <div align="center">
 
 ### 🏆 Trophées
-
-<img src="https://github-profile-trophy.vercel.app/?username=Paolodicaprio&theme=onedark&no-frame=true&column=6&margin-w=8&margin-h=8&title.color=A9927D&text.color=6b6b6b" />
 
 </div>
 
