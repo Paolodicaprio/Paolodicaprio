@@ -1,33 +1,31 @@
 <div align="center">
 
-# Salut, moi c'est Ken Paolo 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A3A3A&height=180&section=header&text=Ken%20Paolo%20Dagba&fontSize=42&fontColor=E8E4DD&animation=fadeIn&fontAlignY=40&desc=D%C3%A9veloppeur%20Full%20Stack%20%26%20Analyste%20Programmeur&descAlignY=60&descSize=18&descColor=C9BFAF" />
 
-### Développeur Full Stack & Analyste Programmeur
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A9927D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Tailwind+%2B+Node;CRM+intelligents+pilot%C3%A9s+par+IA;Toujours+en+train+d'apprendre+%F0%9F%9A%80" />
 
-_Je conçois des applications web & mobile performantes, de l'API à l'interface._
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3A3A3A?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-navy-iota.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Email-3A3A3A?style=flat-square&logo=gmail&logoColor=white)](mailto:dagbapaolo@gmail.com)
-![Localisation](https://img.shields.io/badge/Abomey--Calavi,_Bénin-3A3A3A?style=flat-square&logo=googlemaps&logoColor=white)
+![Localisation](https://img.shields.io/badge/Abomey--Calavi,_B%C3%A9nin-3A3A3A?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## 🧭 À propos
+### 🧭 À propos
 
-Diplômé en **Licence Informatique de Gestion** (ENEAM) et en **Master Génie Logiciel** (IFRI), je travaille aujourd'hui comme développeur full stack, avec une spécialisation croissante autour des **CRM intelligents pilotés par IA** et des **intégrations multi-canal** (WhatsApp, Messenger, Instagram, web).
+Diplômé en **Licence Informatique de Gestion** (ENEAM) et en **Master Génie Logiciel** (IFRI), je conçois des applications web & mobile performantes, de l'API à l'interface — avec un intérêt particulier pour les **CRM intelligents pilotés par IA** et les intégrations multi-canal (WhatsApp, Messenger, Instagram, web).
 
-Ce qui me motive : construire des outils concrets, robustes, et agréables à utiliser — que ce soit une plateforme de veille technologique, un CRM automatisé, ou une app mobile grand public.
-
-- 🔭 Actuellement **Développeur Full Stack & CTO du projet Nixia** chez **Harnix SAS**
-- 🌐 Je maintiens en parallèle une activité **freelance** en développement web & mobile
-- 📡 Passionné par l'**intégration d'IA** dans des produits réels (support client automatisé, veille technologique)
+- 💼 Je travaille actuellement chez **Harnix SAS**, en tant que Développeur Full Stack & CTO
+- 🌐 En parallèle, je mène une activité **freelance** en développement web & mobile
+- 📡 Passionné par l'intégration d'IA dans des produits concrets
 - 🗣️ Français (courant) · Anglais (intermédiaire) · Fon (langue maternelle)
 
 ---
 
-## 🛠️ Stack technique
+### 🛠️ Stack technique
 
 <div align="center">
 
@@ -48,26 +46,7 @@ Ce qui me motive : construire des outils concrets, robustes, et agréables à ut
 
 ---
 
-## 💼 Expérience
-
-**Développeur Full Stack & CTO — Projet Nixia, Harnix SAS** _(Février 2026 – en cours)_
-Conception de solutions digitales dans l'écosystème Harnix : implémentation d'une plateforme SaaS de CRM intelligent centralisant les communications clients (WhatsApp, Messenger, Instagram, site web) avec automatisation des réponses et du service client.
-
-**Stage académique — Harnix** _(Août 2025 – Janvier 2026)_
-Conception d'un CRM automatisé par IA avec support service client et centralisation de la messagerie.
-
-**Développeur Full Stack — FRIARE** _(2024 – en cours)_
-Application web responsive de veille technologique : intégration UI (React + Tailwind CSS), API d'authentification et de gestion des sessions, collaboration backend sur la sécurisation des échanges.
-
-**Freelance développement web & mobile** _(2023 – en cours)_
-Application mobile de collecte et vulgarisation de données open data, pour promouvoir la transparence et l'engagement communautaire.
-
-**Stage académique — RINTIO** _(2022 – 2023)_
-Développement web & mobile (VueJS, Angular, Flutter), tests fonctionnels/unitaires, intégration GitLab & WordPress.
-
----
-
-## 🎓 Formation & certifications
+### 🎓 Formation & certifications
 
 - 🎓 Master Génie Logiciel — **IFRI** (2023–2025)
 - 🎓 Licence Analyse Informatique et Programmation — **ENEAM** (2022–2023)
@@ -77,24 +56,32 @@ Développement web & mobile (VueJS, Angular, Flutter), tests fonctionnels/unitai
 
 ---
 
-## 📊 Statistiques GitHub
+### 📊 Statistiques GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paolodicaprio&show_icons=true&theme=default&hide_border=true&title_color=3A3A3A&icon_color=A9927D&text_color=3A3A3A" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolodicaprio&layout=compact&hide_border=true&title_color=3A3A3A&text_color=3A3A3A" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Paolodicaprio&show_icons=true&theme=default&hide_border=true&title_color=3A3A3A&icon_color=A9927D&text_color=3A3A3A&bg_color=00000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolodicaprio&layout=compact&hide_border=true&title_color=3A3A3A&text_color=3A3A3A&bg_color=00000000" width="48%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paolodicaprio&hide_border=true&background=00000000&stroke=3A3A3A&ring=A9927D&fire=A9927D&currStreakLabel=3A3A3A&sideLabels=3A3A3A&currStreakNum=3A3A3A&sideNums=3A3A3A&dates=6b6b6b" width="70%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paolodicaprio&theme=minimal&hide_border=true&bg_color=00000000&color=3A3A3A&line=A9927D&point=3A3A3A" width="90%" />
 </div>
 
 ---
 
-## 📫 Me contacter
-
 <div align="center">
+
+### 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/Voir_mon_portfolio-3A3A3A?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-navy-iota.vercel.app/)
 [![Email](https://img.shields.io/badge/dagbapaolo@gmail.com-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagbapaolo@gmail.com)
 
 <sub>Musique · Football & Basketball · Jeux vidéo · Animé</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A3A3A&height=100&section=footer" />
 
 </div>
